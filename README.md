@@ -20,7 +20,7 @@ npx gatsby new gatsby-starter-portfolio-cara https://github.com/LekoArts/gatsby-
 cd gatsby-starter-portfolio-cara
 ```
 
-# 3. **Open the code and start customizing!**
+### 3. **Open the code and start customizing!**
 
 Start the site by running `npm run develop`.
 
